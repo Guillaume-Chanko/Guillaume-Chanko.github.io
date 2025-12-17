@@ -1,2 +1,2 @@
-# Guilaume-Chanko.github.io
-Page
+# Guillaume-Chanko.github.io
+Chanko Website
